@@ -54,7 +54,8 @@ The -A option flag will return the number of lines indicated AFTER the match whi
 
 Returns:    
 
-`>LC328970.1 Toxocara canis P3 genes for 5.8S rRNA, ITS2, partial sequence    
+`
+>LC328970.1 Toxocara canis P3 genes for 5.8S rRNA, ITS2, partial sequence    
 >LC328968.1 Toxocara canis P1 genes for 5.8S rRNA, ITS2, partial sequence    
 >LC133352.1 Toxocara canis genes for 5.8S rRNA, ITS2, partial sequence, clone: N1, N2, N3    
 >AB819330.1 Toxocara canis gene for ITS2, partial sequence, isolate: AhvTCAN4    
@@ -64,7 +65,8 @@ Returns:
 >AB743617.1 Toxocara canis ITS2 gene for antigen protein, partial sequence, isolate: KHuzTcan2    
 >AB743616.1 Toxocara canis ITS2 gene for antigen protein, partial sequence, isolate: KHuzTcan2    
 >AB743615.1 Toxocara canis ITS2 gene for antigen protein, partial sequence, isolate: KHuzTcan2    
->AB743614.1 Toxocara canis ITS2 gene for antigen protein, partial sequence, isolate: KHuzTcan1`    
+>AB743614.1 Toxocara canis ITS2 gene for antigen protein, partial sequence, isolate: KHuzTcan1 
+`
 
 That's it! :)    
 
