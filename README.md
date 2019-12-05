@@ -52,7 +52,7 @@ The -A option flag will return the number of lines indicated AFTER the match whi
 
 `>grep -A 1 "ITS2" single.fasta > Toxocara_canis_ITS2.fasta`
 
-Returns:    
+Returns sequences for the following:    
 
     >LC328970.1 Toxocara canis P3 genes for 5.8S rRNA, ITS2, partial sequence    
     >LC328968.1 Toxocara canis P1 genes for 5.8S rRNA, ITS2, partial sequence    
