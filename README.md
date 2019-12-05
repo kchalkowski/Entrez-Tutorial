@@ -7,10 +7,12 @@ You need to know the organism searching for, and the name of the gene.
 
 ## Esearch
 First get the ncbi taxon ID number. This can be done by searching the latin name in the nucleotide database through the website gui    
-For example, Toxocara canis number is txid6265    
+For example, *Toxocara canis* number is txid6265    
 
 The first command uses esearch, which searches the database and returns the number of records for that search    
+
 Instructions for installation can be found at: https://www.ncbi.nlm.nih.gov/books/NBK179288/    
+
 -db and -query are both required flags. -db specifies the database to search in, and the -query is a specified string    
 
 `>esearch -db nucleotide -query "txid6265"`
@@ -25,7 +27,7 @@ This returns:
 <Step>1</Step>    
 </ENTREZ_DIRECT>`    
 
-Where the number of records is 2779. This can be corroborated by searching for Toxocara canis on the ncbi nucleotide database online, which also returns 2779 records    
+Where the number of records is 2779. This can be corroborated by searching for *Toxocara canis* on the ncbi nucleotide database online, which also returns 2779 records    
 
 ## Efetch
 
