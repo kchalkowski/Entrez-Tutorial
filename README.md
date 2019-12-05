@@ -18,11 +18,11 @@ Instructions for installation can be found at: https://www.ncbi.nlm.nih.gov/book
 This returns:    
 
 `<ENTREZ_DIRECT>    
-  <Db>nucleotide</Db>    
-  <WebEnv>NCID_1_40401709_130.14.22.215_9001_1545260591_330183727_0MetA0_S_MegaStore</WebEnv>    
-  <QueryKey>1</QueryKey>    
-  <Count>2779</Count>    
-  <Step>1</Step>    
+<Db>nucleotide</Db>     
+<WebEnv>NCID_1_40401709_130.14.22.215_9001_1545260591_330183727_0MetA0_S_MegaStore</WebEnv>    
+<QueryKey>1</QueryKey>    
+<Count>2779</Count>    
+<Step>1</Step>    
 </ENTREZ_DIRECT>`    
 
 Where the number of records is 2779. This can be corroborated by searching for Toxocara canis on the ncbi nucleotide database online, which also returns 2779 records    
